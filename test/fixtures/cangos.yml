@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  ca_memberid: MyString
+  ngo_name: MyString
+  representative: MyString
+  ca_tilldate: MyString
+  contact_address: MyString
+  focus_district: MyString
+  focus_state: MyString
+  focus_region: MyString
+  contact_tel: MyString
+  contact_email: MyString
+
+two:
+  ca_memberid: MyString
+  ngo_name: MyString
+  representative: MyString
+  ca_tilldate: MyString
+  contact_address: MyString
+  focus_district: MyString
+  focus_state: MyString
+  focus_region: MyString
+  contact_tel: MyString
+  contact_email: MyString

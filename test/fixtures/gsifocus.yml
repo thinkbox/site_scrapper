@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  gsingo_id: MyString
+  type: MyString
+  value: MyString
+
+two:
+  gsingo_id: MyString
+  type: MyString
+  value: MyString

@@ -1,0 +1,13 @@
+base: &base
+  adapter: mysql
+  username: root
+  password:
+  timeout: 5000
+  collation: utf8_general_ci
+  encoding: utf8
+  pool: 5
+  host: 127.0.0.1
+
+development:
+  database: sitesucker_development
+  <<: *base

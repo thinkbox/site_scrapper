@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  pcngo_id: MyString
+  type: MyString
+  val: MyString
+
+two:
+  pcngo_id: MyString
+  type: MyString
+  val: MyString

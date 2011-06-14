@@ -1,0 +1,39 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  sourceurl: MyString
+  gsi_id: MyString
+  ngo_name: MyString
+  contact_addressline: MyString
+  contact_city: MyString
+  contact_district: MyString
+  contact_state: MyString
+  contact_pin: MyString
+  pc_id: MyString
+  contact_phone1: MyString
+  contact_phone2: MyString
+  contact_emailid: MyString
+  contact_weburl: MyString
+  startingyear: MyString
+  fulltimestaff: MyString
+  fulltimevol: MyString
+  iscrediblealliance: false
+
+two:
+  sourceurl: MyString
+  gsi_id: MyString
+  ngo_name: MyString
+  contact_addressline: MyString
+  contact_city: MyString
+  contact_district: MyString
+  contact_state: MyString
+  contact_pin: MyString
+  pc_id: MyString
+  contact_phone1: MyString
+  contact_phone2: MyString
+  contact_emailid: MyString
+  contact_weburl: MyString
+  startingyear: MyString
+  fulltimestaff: MyString
+  fulltimevol: MyString
+  iscrediblealliance: false
